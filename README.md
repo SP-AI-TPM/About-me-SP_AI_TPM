@@ -95,7 +95,7 @@ I build working tools to stay close to the technology my teams ship. These proje
 
 | # | Project | Focus |
 |---|---|---|
-| 1 | **agent-evals-harness** | Trajectory-level evals for tool-using LLM agents, with a CI regression gate |
+| 1 | **[agent-evals-harness](https://github.com/SP-AI-TPM/agent-evals-harness)** | Trajectory-level evals for tool-using LLM agents, with a CI regression gate |
 | 2 | llm-judge-lab *(planned)* | LLM-as-a-judge calibration and bias probes |
 | 3 | mcp-tpm-server *(planned)* | MCP server exposing program-management tools |
 | 4 | agent-launch-readiness *(planned)* | Go/no-go launch reviews built on the three above |
